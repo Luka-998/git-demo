@@ -2,3 +2,7 @@ sword and spear
 wall of shields
 standing strong 
 battle field..
+
+new_lines_of_the_song
+Another_new
+
