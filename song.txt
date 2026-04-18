@@ -3,13 +3,3 @@ wall of shields
 standing strong 
 battle field..
 
-new_lines_of_the_song
-Another_new
-
-zzzzz
-++++zz1
-
-This is from the feature branch!
-
-
-this is added from feature branch tooX
